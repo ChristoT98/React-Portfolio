@@ -13,7 +13,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                 transition: "all 1s ease",
               }}
             >
-              genius.
+              Freelancer.
             </h4>
           </a>
           <div className="itemContainer">
